@@ -9,3 +9,5 @@ ament_vendor(cumm_vendor
   VCS_VERSION v0.5.3
   GLOBAL_HOOK
 )
+
+ament_package()
